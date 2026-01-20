@@ -1,3 +1,7 @@
+![Audio Input](screenshots/input.png)
+![Audio Input](screenshots/output.png)
+
+
 🎙️ Indian Language Speech Translator (Voice → Voice)
 
 A Streamlit-based multilingual speech translation app that allows users to record or upload audio, transcribe it using OpenAI Whisper, translate it into any Indian scheduled language using GPT, and generate spoken audio output using OpenAI Text-to-Speech.
